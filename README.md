@@ -16,7 +16,7 @@ $ glow config
 ```
 
 ```yaml
-style: "tomorrownightbright.json"
+style: "~/.config/glow/tomorrownightbright.json"
 ```
 
 ```bash
