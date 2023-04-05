@@ -6,7 +6,7 @@ This is a Tomorrow Night Bright inspired theme for use with Glow
 ## Usage
 
 ```
-$ glow --style ./tomorrownightbright.json ./README.md
+$ glow --style ./tomorrownightbright.json ./artichoke.md
 ```
 
 ![screenshot](./screenshot.png)
