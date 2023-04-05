@@ -5,8 +5,22 @@ This is a Tomorrow Night Bright inspired theme for use with Glow
 
 ## Usage
 
+Copy the style to the config folder of Glow
+```bash
+$ cp ./tomorrownightbright.json ~/.config/glow
 ```
-$ glow --style ./tomorrownightbright.json ./artichoke.md
+
+Then change the configuration
+```bash
+$ glow config
+```
+
+```yaml
+style: "tomorrownightbright.json"
+```
+
+```bash
+$ glow ./artichoke.md
 ```
 
 ![screenshot](./screenshot.png)
