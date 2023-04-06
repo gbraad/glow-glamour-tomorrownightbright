@@ -1,6 +1,6 @@
 # Glow / Glamour style - Tomorrow Night Bright
 
-This is a Tomorrow Night Bright inspired theme for use with Glow
+This is a Tomorrow Night Bright inspired theme for use with [Glow](https://github.com/charmbracelet/glow)
 
 
 ## Usage
